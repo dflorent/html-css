@@ -11,4 +11,4 @@ Ex11
 8. Définisez `margin` à `24px 0`
 9. Sauvegardez, rafraichissez
 
-[Ex11](011-exercice.md)
+[Ex12](012-exercice.md)

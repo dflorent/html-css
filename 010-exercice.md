@@ -16,4 +16,4 @@ entoure `Crédits photo : Valery Guedes`
 5. Définisez `font-style` à `italic`
 6. Sauvegardez, rafraichissez
 
-[Ex10](010-exercice.md)
+[Ex11](011-exercice.md)

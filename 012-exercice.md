@@ -10,4 +10,4 @@ Ex12
 3. Définisez `margin` à `0 auto`
 7. Sauvegardez, rafraichissez
 
-[Ex12](012-exercice.md)
+[Ex13](013-exercice.md)
