@@ -10,3 +10,5 @@ Ex9
 2. Utilisez un seleteur de type sur `ul`
 6. Définisez `list-style-type` à `square`
 7. Sauvegardez, rafraichissez
+
+[Ex9](009-exercice.md)

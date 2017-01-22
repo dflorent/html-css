@@ -99,3 +99,5 @@ Cette recette est issue du livre "Best of Bocuse" publié aux Éditions Alain Du
 ```
 
 3. Sauvegardez et rafraichissez
+
+[Ex5](005-exercice.md)

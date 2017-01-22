@@ -30,3 +30,5 @@ Ex6
 
 1. Insérez un lien vers les éditions *Alain Ducasse* : http://www.alain-ducasse.com/fr/les-livres
 2. Sauvegardez et rafraichissez
+
+[Ex7](007-exercice.md)

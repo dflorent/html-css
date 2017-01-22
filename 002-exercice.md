@@ -53,4 +53,7 @@ Astuces
 ### Sauter par-dessus les mots
 
 <kbd>CTRL</kbd> + <kbd>→</kbd> ou <kbd>alt</kbd> + <kbd>→</kbd>
+
 <kbd>CTRL</kbd> + <kbd>←</kbd> ou <kbd>alt</kbd> + <kbd>←</kbd>
+
+[Ex3](003-exercice.md)

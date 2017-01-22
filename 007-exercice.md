@@ -62,3 +62,5 @@ Ressource
 ---
 
 http://cssreference.io/
+
+[Ex8](008-exercice.md)

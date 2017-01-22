@@ -19,3 +19,4 @@ Ex5
 - Les formats d'images
 - Traitement des images
 
+[Ex6](006-exercice.md)

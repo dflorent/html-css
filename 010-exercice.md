@@ -15,3 +15,5 @@ entoure `Crédits photo : Valery Guedes`
 4. Définisez `text-align` à `right`
 5. Définisez `font-style` à `italic`
 6. Sauvegardez, rafraichissez
+
+[Ex10](010-exercice.md)

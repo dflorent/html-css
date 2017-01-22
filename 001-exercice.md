@@ -17,3 +17,5 @@ Temps de cuisson : 1 h 40
 6. Sauvegardez votre fichier dans le dossier `html-css`
 7. Depuis l'exporateur de fichier, ouvrez votre fichier `index.html` avec votre navigateur web
 8. Décrivez ce que vous voyez !
+
+[Ex2](002-exercice.md)

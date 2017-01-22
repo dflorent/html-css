@@ -43,3 +43,5 @@ Astuces
 ---
 
 __*Indentez votre code !*__
+
+[Ex4](004-exercice.md)

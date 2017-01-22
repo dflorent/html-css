@@ -6,3 +6,5 @@ Ex8
 3. Définisez `color` à `#856400`
 4. Définisez `font-size` à `36px`
 5. Sauvegardez, rafraichissez
+
+[Ex9](009-exercice.md)
