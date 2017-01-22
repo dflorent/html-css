@@ -11,4 +11,4 @@ Ex9
 6. Définisez `list-style-type` à `square`
 7. Sauvegardez, rafraichissez
 
-[Ex10](0010-exercice.md)
+[Ex10](010-exercice.md)
