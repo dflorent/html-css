@@ -5,8 +5,8 @@ Introduction à CSS
 
 ```css
 selecteur {
-    propriété: valeur;
-    propriété: valeur;
+    propriete: valeur;
+    propriete: valeur;
     // etc.
 }
 ```
