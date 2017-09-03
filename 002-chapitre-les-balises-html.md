@@ -5,12 +5,15 @@ Les balises HTML
 
 Les balises structurent un document HTML. On en trouve 2 types :
 
-- Les balises par paire
-- Les balises auto-fermantes
+Les balises par paire
+---
 
 ```html
 <exemple>Ceci est un contenu textuel</exemple>
 ```
+
+Les balises auto-fermantes
+---
 
 ```html
 <exemple>
