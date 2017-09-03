@@ -22,16 +22,16 @@ Cours HTML & CSS
 Ressources alternatives
 ---
 
-[htmlreference.io](http://htmlreference.io/)
-[cssreference.io](http://cssreference.io/)
-[MDN web docs](https://developer.mozilla.org/fr/docs/Web/HTML)
+- [htmlreference.io](http://htmlreference.io/)
+- [cssreference.io](http://cssreference.io/)
+- [MDN web docs](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 Projets
 ---
 
 [Ebook](https://raw.githubusercontent.com/dflorent/html-css/master/ebook-projet.zip) (.zip, 591 Ko)
 
-Astuces
+Raccourcis clavier
 ---
 
 ### Sauvegarder
