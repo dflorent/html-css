@@ -1,37 +1,61 @@
 HTML & CSS
 ===
 
-Support de cours HTML & CSS.
-
-Introduction
+Objectifs
 ---
 
-- Qu'est-ce qu'HTML ?
-- Qu'est-ce que CSS ?
-- Pourquoi apprendre HTML & CSS ?
-- Qu'est ce qu'un éditeur de texte ?
-- Qu'est ce qu'un navigateur web ?
+- Découvrir et comprendre les bases du langage HTML
+- Découvrir le langage CSS et maîtriser la mise en forme de son site
+- Savoir créer un site statique simple
 
-Exercices
+Cours HTML & CSS
 ---
 
-- [Ex1](001-exercice.md)
-- [Ex2](002-exercice.md)
-- [Ex3](003-exercice.md)
-- [Ex4](004-exercice.md)
-- [Ex5](005-exercice.md)
-- [Ex6](006-exercice.md)
-- [Ex7](007-exercice.md)
-- [Ex8](008-exercice.md)
-- [Ex9](009-exercice.md)
-- [Ex10](010-exercice.md)
-- [Ex11](011-exercice.md)
-- [Ex12](012-exercice.md)
-- [Ex13](013-exercice.md)
+- [Chapitre 1 : Introduction](001-chapitre-introduction.md)
+- [Chapitre 2 : Les balises HTML](002-chapitre-les-balises-html.md)
+- [Chapitre 3 : La structure de base d'un document HTML](003-chapitre-la-structure-de-base-dun-document-html.md)
+- [Chapitre 4 : Structuration du document](004-chapitre-structuration-du-document.md)
+- [Chapitre 5 : Les attributs des balises HTML](005-chapitre-les-attributs-des-balises-html.md)
+- [Chapitre 6 : Les liens](006-chapitre-les-liens.md)
+- [Chapitre 7 : CSS](007-chapitre-css.md)
 
-Projet
+Ressources alternatives
 ---
 
-[Télécharger](https://raw.githubusercontent.com/dflorent/html-css/master/ebook-projet.zip) (.zip, 591 Ko)
+[htmlreference.io](http://htmlreference.io/)
+[cssreference.io](http://cssreference.io/)
+[MDN web docs](https://developer.mozilla.org/fr/docs/Web/HTML)
 
+Projets
+---
 
+[Ebook](https://raw.githubusercontent.com/dflorent/html-css/master/ebook-projet.zip) (.zip, 591 Ko)
+
+Astuces
+---
+
+### Sauvegarder
+
+<kbd>CTRL</kbd> + <kbd>s</kbd> ou <kbd>cmd</kbd> + <kbd>s</kbd>
+
+### Basculer entre les fenêtres
+
+<kbd>CTRL</kbd> + <kbd>Tab</kbd> ou <kbd>cmd</kbd> + <kbd>Tab</kbd>
+
+### Rafaîchir la page
+
+<kbd>CTRL</kbd> + <kbd>F5</kbd> ou <kbd>cmd</kbd> + <kbd>r</kbd>
+
+### Sauter en fin de ligne
+
+<kbd>↗</kbd> ou <kbd>cmd</kbd> + <kbd>→</kbd>
+
+### Sauter en début de ligne
+
+<kbd>↖</kbd> ou <kbd>cmd</kbd> + <kbd>←</kbd>
+
+### Sauter par-dessus les mots
+
+<kbd>CTRL</kbd> + <kbd>→</kbd> ou <kbd>alt</kbd> + <kbd>→</kbd>
+
+<kbd>CTRL</kbd> + <kbd>←</kbd> ou <kbd>alt</kbd> + <kbd>←</kbd>
