@@ -15,9 +15,9 @@ La syntaxe CSS
 
 ```css
 selecteur {
-    propriete: valeur;
-    propriete: valeur;
-    // etc.
+  propriete: valeur;
+  propriete: valeur;
+  // etc.
 }
 ```
 
