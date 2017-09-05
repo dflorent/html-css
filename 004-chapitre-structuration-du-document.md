@@ -42,15 +42,15 @@ Listes ordonnées et non ordonnées
 
 ```html
 <ul>
-    <li>Item</li>
-    <li>Item</li>
-    <li>Item</li>
+  <li>Item</li>
+  <li>Item</li>
+  <li>Item</li>
 </ul>
 
 <ol>
-    <li>Item</li>
-    <li>Item</li>
-    <li>Item</li>
+  <li>Item</li>
+  <li>Item</li>
+  <li>Item</li>
 </ol>
 ```
 
