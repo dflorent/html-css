@@ -12,6 +12,7 @@ Exemple avec la balise `img` qui permet d'insérer une image.
 À voir
 ---
 
+- Les chemins vers les fichiers
 - Les formats d'images
 
 ---
