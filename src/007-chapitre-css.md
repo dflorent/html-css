@@ -94,4 +94,4 @@ L'antisèche CSS
 
 ---
 
-[← Retour au sommaire](README.md)
+[← Retour au sommaire](../README.md)
